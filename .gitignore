@@ -1,0 +1,6 @@
+*.zip
+.zip
+__pycache__/
+.ipynb_checkpoints/
+.env
+wandb/
